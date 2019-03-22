@@ -22,4 +22,5 @@ public class HelloSpringApplication {
 	public String print() {
 		return String.valueOf(System.currentTimeMillis());
 	}
+
 }
